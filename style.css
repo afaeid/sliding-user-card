@@ -18,9 +18,9 @@
   width: 35px;
   height: 35px;
   border-radius: 50%;
-  border: 5px solid #2C3EFF;
-  border-bottom-color: #2C3EFF7A;
-  animation: spin 1s linear infinite;
+  border: 5px solid #737FFF85;
+  border-bottom-color: #0016FF;
+  animation: spin 0.8s linear infinite;
 }
 @keyframes spin{
   to{
